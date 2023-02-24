@@ -890,6 +890,9 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+
+
+
 @media (max-width: 1024px) {
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
